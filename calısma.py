@@ -1,1 +1,1 @@
-ewrewrewrewrewrerw
+print("yüsraaaaa")
